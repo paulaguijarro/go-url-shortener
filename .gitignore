@@ -1,0 +1,11 @@
+# Env files
+.env
+
+# Binary files
+go-short
+
+# IDE files
+.vscode
+
+# File system files
+.DS_Store
